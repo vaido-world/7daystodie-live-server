@@ -1,0 +1,32 @@
+"AppState"
+{
+	"appid"		"294420"
+	"Universe"		"1"
+	"name"		"7 Days to Die Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"7 Days to Die Dedicated Server"
+	"LastUpdated"		"1595252036"
+	"UpdateResult"		"0"
+	"SizeOnDisk"		"12080234933"
+	"buildid"		"4714812"
+	"LastOwner"		"76561200929986711"
+	"BytesToDownload"		"4125909616"
+	"BytesDownloaded"		"4125909616"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"294422"
+		{
+			"manifest"		"712346436815285918"
+		}
+	}
+	"MountedDepots"
+	{
+		"294422"		"712346436815285918"
+	}
+	"UserConfig"
+	{
+	}
+}
