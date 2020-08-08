@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <ServerSettings>
-  <!-- GENERAL SERVER SETTINGS -->
+  <!-- GENERAL SERVER SETTINGS test-->
   <!-- Server representation -->
   <property name="ServerName" value="[EU][PVP] 7 Days To Die Vanilla Public | XP 1000% | Loot 300%"/>
   <!-- Whatever you want the name of the server to be. -->
