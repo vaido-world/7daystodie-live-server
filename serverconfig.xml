@@ -91,7 +91,7 @@
   <!-- How much damage do AIs during blood moons to blocks (percentage in whole numbers) -->
   <property name="XPMultiplier" value="1000"/>
   <!-- XP gain multiplier (percentage in whole numbers) -->
-  <property name="PlayerSafeZoneLevel" value="5"/>
+  <property name="PlayerSafeZoneLevel" value="0"/>
   <!-- If a player is less or equal this level he will create a safe zone (no enemies) when spawned -->
   <property name="PlayerSafeZoneHours" value="5"/>
   <!-- Hours in world time this safe zone exists -->
