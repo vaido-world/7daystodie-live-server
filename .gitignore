@@ -1,6 +1,6 @@
 Data/*
 7DaysToDieServer_Data/*
+Saves[0-9]*/*
 Saves/*
 secure_serverconfig.xml
 startserver_with_security.sh
-
