@@ -163,9 +163,9 @@
   <!-- The number of days a player can be offline before their claims expire and are no longer protected -->
   <property name="LandClaimDecayMode" value="0"/>
   <!-- Controls how offline players land claims decay. 0=Slow (Linear) , 1=Fast (Exponential), 2=None (Full protection until claim is expired). -->
-  <property name="LandClaimOnlineDurabilityModifier" value="4"/>
+  <property name="LandClaimOnlineDurabilityModifier" value="8"/>
   <!-- How much protected claim area block hardness is increased when a player is online. 0 means infinite (no damage will ever be taken). Default is 4x -->
-  <property name="LandClaimOfflineDurabilityModifier" value="4"/>
+  <property name="LandClaimOfflineDurabilityModifier" value="8"/>
   <!-- How much protected claim area block hardness is increased when a player is offline. 0 means infinite (no damage will ever be taken). Default is 4x -->
   <property name="LandClaimOfflineDelay" value="0"/>
   <!-- The number of minutes after a player logs out that the land claim area hardness transitions from online to offline. Default is 0 -->
