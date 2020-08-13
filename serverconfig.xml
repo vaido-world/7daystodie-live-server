@@ -141,7 +141,7 @@
   <!-- Loot -->
   <property name="LootAbundance" value="300"/>
   <!-- percentage in whole numbers -->
-  <property name="LootRespawnDays" value="15"/>
+  <property name="LootRespawnDays" value="7"/>
   <!-- days in whole numbers -->
   <property name="AirDropFrequency" value="36"/>
   <!-- How often airdrop occur in game-hours, 0 == never -->
