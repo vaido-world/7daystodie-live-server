@@ -111,9 +111,9 @@
   <property name="BedrollExpiryTime" value="45"/>
   <!-- Number of days a bedroll stays active after owner was last online -->
   <!-- Performance related -->
-  <property name="MaxSpawnedZombies" value="64"/>
+  <property name="MaxSpawnedZombies" value="164"/>
   <!-- This setting covers the entire map. There can only be this many zombies on the entire map at one time. Changing this setting has a huge impact on performance. -->
-  <property name="MaxSpawnedAnimals" value="50"/>
+  <property name="MaxSpawnedAnimals" value="150"/>
   <!-- If your server has a large number of players you can increase this limit to add more wildlife. Animals don't consume as much CPU as zombies. NOTE: That this doesn't cause more animals to spawn arbitrarily: The biome spawning system only spawns a certain number of animals in a given area, but if you have lots of players that are all spread out then you may be hitting the limit and can increase it. -->
   <property name="ServerMaxAllowedViewDistance" value="12"/>
   <!-- Max viewdistance a client may request (6 - 12). High impact on memory usage and performance. -->
