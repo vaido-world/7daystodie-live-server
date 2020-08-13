@@ -4,3 +4,4 @@ Saves[0-9]*/*
 Saves/*
 secure_serverconfig.xml
 startserver_with_security.sh
+7DaysToDieServer.x86*
