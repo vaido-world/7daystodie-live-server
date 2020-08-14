@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ServerSettings>
   <!-- GENERAL SERVER SETTINGS -->
-  <!-- Server representation tes t-->
+  <!-- Server representation -->
   <property name="ServerName" value="[EU][PVP] 7 Days To Die Vanilla Public | XP 1000% | Loot 300%"/>
   <!-- Whatever you want the name of the server to be. -->
   <property name="ServerDescription" value="[EU] 7 Days To Die &#10;    Vanilla Public PVP | XP 1000 | Loot 300&#10;  The Dedicated server is based in Europe/Lithuania.&#10;  If you can, support this server. &#10;  Contact the owner: vaidas.boqsc@gmail.com&#10;  The Server is as close to the Vanilla as possible, &#10;  but focused on less tiring gameplay.&#10;  No client side mods.&#10;  Any suggestions are Welcome."/>
