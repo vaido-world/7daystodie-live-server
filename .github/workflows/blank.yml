@@ -35,6 +35,6 @@ jobs:
           curl \
           -X POST \
           -H "Content-Type: application/x-www-form-urlencoded" \
-          -d "param1=value1&param2=value2" \
+          -d "payload=true&param2=value2" \
           http://7dtd.vaido.world:80/github_payloads.php
           echo test, and deploy your project.
