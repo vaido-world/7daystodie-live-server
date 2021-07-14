@@ -1,2 +1,2 @@
 # 7daystodie-live-server
-Server Configurations and Mods currently active on 7days.vaido.world GameServer
+Server Configurations and Mods currently active on 7dtd.vaido.world GameServer
